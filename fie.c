@@ -1,9 +1,8 @@
 #include<stdio>
 using namespace std;
-int main(){
+int main(void){
 	printf("first file");
 	return 0;
 
 
 }
-
